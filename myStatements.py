@@ -8,4 +8,5 @@ for item in my_list:
 for _,value in my_dict.items():
     print(f"My favorite thing to drink is : {value}")
 
+
     
